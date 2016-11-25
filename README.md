@@ -1,1 +1,1 @@
-htmlの練習です by HISAS
+HTMLの練習です by HISAS
